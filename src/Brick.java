@@ -45,4 +45,6 @@ public class Brick extends GRect{
         return hp;
     }
 
+    //this is a change
+
 }
